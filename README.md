@@ -1,4 +1,4 @@
-# Hi there, I'm Vansh Jasuja! 👋
+# Hi there, I'm Vansh Jasuja! 
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&height=50&lines=Data+Science+Student;Machine+Learning+Enthusiast;Kaggle+Competitor;Turning+Data+into+Insights" alt="Typing SVG" /></a>
